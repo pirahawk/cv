@@ -12,7 +12,8 @@
 
 ## Technology overview
 
-* I have a great deal of experience working with the .NET framework and complimentary technologies such as ASP.NET MVC, ASP.NET Web-API, WPF, WCF
+* I have a great deal of experience working with the .NET framework and complimentary technologies such as ASP.NET MVC, ASP.NET Web-API, WPF, WCF *NOTE: YOU NEED TO SAY YOU primarily work with MVC and web api but over the years have worked with other MS tech such as.... Also mention MS build*
 * Front-end 
+* Azure
 * MSSQL & TSQL scripting, EF
 * Open source 
