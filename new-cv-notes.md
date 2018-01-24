@@ -43,8 +43,14 @@ I also regularly make use of command-line shell environments such as Powershell 
 
 ## Career Overview
 
-*Note:* The following sections contain a condensed overview of my previous roles. For detailed descriptions, please refer to my [Linkedin profile|https://www.linkedin.com/in/piran-tata-a072ab15].
+*Note:* The following sections contain a condensed overview of my previous roles. For detailed descriptions, please refer to my [Linkedin profile](https://www.linkedin.com/in/piran-tata-a072ab15).
 
+### Derivco - Senior .NET Developer
+https://derivco.com/
+Ipswich (UK). 
+2016 - present
+
+Derivco is one of the largest multinational suppliers of online sports-betting and casino gaming technology. The team in Ipswich is tasked with the development of an online HTML5 betting and casino lobby product which is used across the UK and European markets. Owing to its very early origins (7+ years), the client is built using Script#, a translation layer that can convert .NET OO constructs to javascript. The client's UI, service and in-memory persistence layers have all been architected using MVP, with communication between components being performed using a decoupled event-based notification pattern.    
 
 
 https://www.facebook.com/LittleLotNZ/
