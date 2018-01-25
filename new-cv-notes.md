@@ -47,10 +47,27 @@ I also regularly make use of command-line shell environments such as Powershell 
 
 ### Derivco - Senior .NET Developer
 https://derivco.com/
-Ipswich (UK). 
+Ipswich (United Kingdom). 
 2016 - present
 
-Derivco is one of the largest multinational suppliers of online sports-betting and casino gaming technology. The team in Ipswich is tasked with the development of an online HTML5 betting and casino lobby product which is used across the UK and European markets. Owing to its very early origins (7+ years), the client is built using Script#, a translation layer that can convert .NET OO constructs to javascript. The client's UI, service and in-memory persistence layers have all been architected using MVP, with communication between components being performed using a decoupled event-based notification pattern.    
+Derivco is one of the largest multinational suppliers of online sports-betting and casino gaming technology. The Ipswich division is focused on the development of an online HTML5 sports-betting and casino lobby product that is used across the UK and European markets. Owing to its very early origins (7+ years), the client has been built using Script#, a translation layer which converts .NET OO constructs to javascript. The client architecture derives from the PureMVC framework in an effort to create loosely coupled UI, service and in-memory persistence layers, all of which communicate via an event-based broadcast notification pattern. During my time with the company I have worked with several different client teams, contributing to key product areas such as:
+
+* Improving SEO rankings by pre-rendring and caching client data server-side during initial requests to which the client can bind to isomorphically.
+* Improving site capacity during peak loads, via introducing a custom in-memory caching for redundant API calls and pausing API traffic upon detecting user-inactivity.
+* Building proof-of concept Casino lobby implementations in collaboration with our development teams based overseas.
+* Re-designing the client casino game launch pipeline to incorporate the ability to launch third party games in different formats (external/navigation, embedded, native etc)
+* Adding client features to enable compliance with regional gambling legislation changes when rolling out to various markets.
+* Improving developer experience by assisting all client teams with migrating our DVS from SVN to Git (hosted on Bitbucket).
+
+### Xero - Senior .NET Developer
+https://www.xero.com
+Auckland (New Zealand)
+2015 - 2016
+
+Xero is a cloud-based accounting software company that originated from New Zealand. Internally it is comprised of an ecosystem of different accounting products, each of which are encouraged to use a microservice architecture. I was based in the engineering team tasked with maintaining Xero’s billing and subscriptions platform used across all core products.
+
+
+   
 
 
 https://www.facebook.com/LittleLotNZ/
