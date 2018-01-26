@@ -64,10 +64,24 @@ https://www.xero.com
 Auckland (New Zealand)
 2015 - 2016
 
-Xero is a cloud-based accounting software company that originated from New Zealand. Internally it is comprised of an ecosystem of different accounting products, each of which are encouraged to use a microservice architecture. I was based in the engineering team tasked with maintaining Xero’s billing and subscriptions platform used across all core products.
+Xero is a cloud-based accounting software company that offers a suite of SaaS accounting solutions. I worked in the engineering team tasked with maintaining it's subscription, billing and pricing platform. Internally, a lot of the product eco-system was organized using a microservice archietecture to seperate business capabilities such as billing, discount-coupons, product buy-flows, payment etc. A majority of the solutions were built using ASP.NET MVC and ASP.NET Web-Api interfacing with a MS-SQL backend DB for persistance using Dapper as the micro-ORM. I contributed to key product areas such as:
 
+* Migrating product buyflow's to become PCI compliant when accepting online credit-card payments.
+* Adding features to the invoicing system to address changes in the business model.
+* Engineering support for Xero’s customer support and BI teams to resolve subscription related call escalations and publish any reports/statistics on request.
+* I created a custom solution (via an internal hackathon) using TSQL scripting and T4 templates to assist with migrating product pricing plans when entering new markets.
+* Educating new starters on the data model design and participating in interviewing potential candidates.
 
-   
-
-
+### Little Lot - Senior .NET Developer
 https://www.facebook.com/LittleLotNZ/
+Auckland (New Zealand)
+2014 - 2015
+
+Little Lot was a startup that created an advertising platform capable of serving a daily set of branded wallpapers, with a model aimed at donating a percantage of the advertising revenue to a charity of the users choice. I was the first hire and worked as the sole platform developer, during which time I contributed to the following project areas:
+
+* The platform was cloud-hosted in Azure. I worked with setting up a number of the services such as Azure Web Applications, Azure Web jobs, Azure SQL DB, Azure Blob storage, Azure CDN and the Azure Push notifications hub.
+* Developing the advertising REST API using ASP.NET Web-Api 2, Ninject (for DI), Entity Framework 6 (as the ORM). Also made use of open-source libraries such as Refit for making calls to google-analytics.
+* Created a new responsive, platform-specific website using ASP.NET MVC 5.1. The site used numerous front-end libraries such as lodash, purecss, jquery, fullpage.js
+* Developing the administrative portal for managing content, subscriptions, ad-campaigns. The portal was also built using ASP.NET MVC 5.1 and in addition, made use of some other front-end libraries such as Knockout, flatlab
+* Created a custom offline emailing system (triggered and run via azure web-jobs) and a custom email templating portal using markdown syntax for managing various campaigns. This was built using components such as MarkdownSharp, Handlebars.js, T4MVC
+* Maintaining all business logic libraries. Created and maintained good unit-test coverage across the entire solution using frameworks such as NUnit, Moq.
