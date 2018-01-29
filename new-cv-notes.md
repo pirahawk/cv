@@ -3,7 +3,7 @@
 
 ## Overview and core competencies
 * Overseas experience of having worked in the UK and New Zealand technology sector.
-* Full stack experience of working with front-end, server-side and data-persistance technologies.
+* Full stack experience of working with front-end, server-side and data-persistence technologies.
 * Career experience in working for product teams, start-ups and various software-engineering consultancies.
 * Experience of working with and building cloud based SAAS solutions using Microsoft Azure.
 * I enjoy engineering and working on products that are either catered for the web-stack or building large scalable services.
@@ -52,7 +52,7 @@ Ipswich (United Kingdom).
 
 Derivco is one of the largest multinational suppliers of online sports-betting and casino gaming technology. The Ipswich division is focused on the development of an online HTML5 sports-betting and casino lobby product that is used across the UK and European markets. Owing to its very early origins (7+ years), the client has been built using Script#, a translation layer which converts .NET OO constructs to javascript. The client architecture derives from the PureMVC framework in an effort to create loosely coupled UI, service and in-memory persistence layers, all of which communicate via an event-based broadcast notification pattern. During my time with the company I have worked with several different client teams, contributing to key product areas such as:
 
-* Improving SEO rankings by pre-rendring and caching client data server-side during initial requests to which the client can bind to isomorphically.
+* Improving SEO rankings by pre-rendering and caching client data server-side during initial requests to facilitate semi-isomorphic binding by the client framework.
 * Improving site capacity during peak loads, via introducing a custom in-memory caching for redundant API calls and pausing API traffic upon detecting user-inactivity.
 * Building proof-of concept Casino lobby implementations in collaboration with our development teams based overseas.
 * Re-designing the client casino game launch pipeline to incorporate the ability to launch third party games in different formats (external/navigation, embedded, native etc).
@@ -124,5 +124,8 @@ I worked for Fishpond, a NZ based online retailer, as a junior web developer. Al
 
 ## Qualifications
 
-* Masters of Engineering - Hons (Software Engineering) - The University of Auckland
+* Masters of Engineering - Hons (Software Engineering)
+The University of Auckland - 2009
+
 * Bachelor of Engineering - Hons (Software Engineering) - The University of Auckland.
+The University of Auckland - 2008
